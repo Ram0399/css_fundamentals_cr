@@ -1,0 +1,39 @@
+le>
+        /* Internal Css*/
+        /*global/universal selector*/
+        *{
+            font-family: fantasy;
+        }
+        /*HTML selectors/tag selectors*/
+        body{
+            background-color: maroon;
+        }
+        section{
+            background-color: blueviolet;
+        }
+        /*Class selcetor*/
+        .sectionTitle{
+            text-decoration:underline;
+        }
+        /* id selector */
+        #specialTitle{
+            text-transform:capitalize ;
+        }
+        p{
+background-color: chartreuse;
+        }
+        span{
+            background-color: olivedrab;
+        }
+h1{
+    color: cyan;
+    background-color: brown;
+}
+.sectionTitle{
+    color: beige;
+    text-decoration:underline ;
+}
+#specialTitle{
+    color: burlywood;
+    text-transform: lowercase;
+}
